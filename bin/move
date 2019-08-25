@@ -4,7 +4,7 @@ require_relative '../lib/move.rb'
 
 # Code your CLI Here
 
-board =["", " ", " ", " ", " ", " ", " ", " ", " "]
+board =[" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe"
  puts "choose a number 1-9"
